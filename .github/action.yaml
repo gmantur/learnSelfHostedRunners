@@ -1,6 +1,6 @@
 name: Must_run_runner
 
-on: [push]
+on: push
 
 jobs:
   init:
